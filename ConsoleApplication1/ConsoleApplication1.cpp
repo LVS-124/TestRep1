@@ -1,9 +1,12 @@
 ﻿#include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Opachki!\n";
-    std::cout << "OGO!\n";
+    cout << "Hello World!\n";
+    cout << "Opachki!\n";
+    cout << "OGO!\n";
+    cout << "Belochka!\n";
+
 }
 
